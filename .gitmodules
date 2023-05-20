@@ -1,0 +1,3 @@
+[submodule "emakefun_text_to_speech_synthesizer"]
+	path = emakefun_text_to_speech_synthesizer
+	url = https://github.com/emakefun-arduino-library/emakefun_text_to_speech_synthesizer.git
